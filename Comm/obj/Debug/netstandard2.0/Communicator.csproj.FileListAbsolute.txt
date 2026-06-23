@@ -1,0 +1,26 @@
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\bin\Debug\netstandard2.0\Communicator.deps.json
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\bin\Debug\netstandard2.0\Communicator.dll
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\bin\Debug\netstandard2.0\Communicator.pdb
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\bin\Debug\netstandard2.0\DataModel.dll
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\bin\Debug\netstandard2.0\DataModel.pdb
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Communicator.csproj.AssemblyReference.cache
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Communicator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Communicator.AssemblyInfoInputs.cache
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Communicator.AssemblyInfo.cs
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Communicator.csproj.CoreCompileInputs.cache
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Communic.2617CA04.Up2Date
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Communicator.dll
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Communicator.pdb
+C:\_facultate\PS2\Simulator semafor\Simulator\Comm\bin\Debug\netstandard2.0\Communicator.deps.json
+C:\_facultate\PS2\Simulator semafor\Simulator\Comm\bin\Debug\netstandard2.0\Communicator.dll
+C:\_facultate\PS2\Simulator semafor\Simulator\Comm\bin\Debug\netstandard2.0\Communicator.pdb
+C:\_facultate\PS2\Simulator semafor\Simulator\Comm\bin\Debug\netstandard2.0\DataModel.dll
+C:\_facultate\PS2\Simulator semafor\Simulator\Comm\bin\Debug\netstandard2.0\DataModel.pdb
+C:\_facultate\PS2\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Communicator.csproj.AssemblyReference.cache
+C:\_facultate\PS2\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Communicator.GeneratedMSBuildEditorConfig.editorconfig
+C:\_facultate\PS2\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Communicator.AssemblyInfoInputs.cache
+C:\_facultate\PS2\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Communicator.AssemblyInfo.cs
+C:\_facultate\PS2\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Communicator.csproj.CoreCompileInputs.cache
+C:\_facultate\PS2\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Communic.2617CA04.Up2Date
+C:\_facultate\PS2\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Communicator.dll
+C:\_facultate\PS2\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Communicator.pdb

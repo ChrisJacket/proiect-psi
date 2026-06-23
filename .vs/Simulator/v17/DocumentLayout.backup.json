@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA84CB-1AEB-4DEE-AEE1-5EDAC0649F30}|Simulator\\Simulator.csproj|C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\simulator\\semaforviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDA84CB-1AEB-4DEE-AEE1-5EDAC0649F30}|Simulator\\Simulator.csproj|solutionrelative:simulator\\semaforviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BBA495-94F2-45A8-B7C1-F93985239F59}|WebAPI\\WebAPI.csproj|c:\\_facultate\\ps2\\simulator semafor\\simulator\\webapi\\controllers\\simulatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BBA495-94F2-45A8-B7C1-F93985239F59}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\simulatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BBA495-94F2-45A8-B7C1-F93985239F59}|WebAPI\\WebAPI.csproj|c:\\_facultate\\ps2\\simulator semafor\\simulator\\webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{60BBA495-94F2-45A8-B7C1-F93985239F59}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DataModel||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5C8C46-D6E5-40B4-80BC-150B87C2FAC7}|SimulatorApps{1E5C8C46-D6E5-40B4-80BC-150B87C2FAC7}|Simulator||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5C8C46-D6E5-40B4-80BC-150B87C2FAC7}|SimulatorApps{1E5C8C46-D6E5-40B4-80BC-150B87C2FAC7}|Monitor||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A80472-AF82-40F1-BC6A-9CF66DC287D7}|Comm\\Communicator.csproj|c:\\_facultate\\ps2\\simulator semafor\\simulator\\comm\\communicator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{90A80472-AF82-40F1-BC6A-9CF66DC287D7}|Comm\\Communicator.csproj|solutionrelative:comm\\communicator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4EB383-39BA-4A84-8D64-F635B6F38C7A}|OtherConsumers{3A4EB383-39BA-4A84-8D64-F635B6F38C7A}|ConsoleConsumer||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A80472-AF82-40F1-BC6A-9CF66DC287D7}|Comm\\Communicator.csproj|c:\\_facultate\\ps2\\simulator semafor\\simulator\\comm\\receiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A80472-AF82-40F1-BC6A-9CF66DC287D7}|Comm\\Communicator.csproj|solutionrelative:comm\\receiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A80472-AF82-40F1-BC6A-9CF66DC287D7}|Comm\\Communicator.csproj|c:\\_facultate\\ps2\\simulator semafor\\simulator\\comm\\httphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A80472-AF82-40F1-BC6A-9CF66DC287D7}|Comm\\Communicator.csproj|solutionrelative:comm\\httphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA84CB-1AEB-4DEE-AEE1-5EDAC0649F30}|Simulator\\Simulator.csproj|C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\simulator\\semafor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDA84CB-1AEB-4DEE-AEE1-5EDAC0649F30}|Simulator\\Simulator.csproj|solutionrelative:simulator\\semafor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA84CB-1AEB-4DEE-AEE1-5EDAC0649F30}|Simulator\\Simulator.csproj|C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\simulator\\semafor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1DDA84CB-1AEB-4DEE-AEE1-5EDAC0649F30}|Simulator\\Simulator.csproj|solutionrelative:simulator\\semafor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA84CB-1AEB-4DEE-AEE1-5EDAC0649F30}|Simulator\\Simulator.csproj|C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\simulator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1DDA84CB-1AEB-4DEE-AEE1-5EDAC0649F30}|Simulator\\Simulator.csproj|solutionrelative:simulator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3117C9A0-C48C-4F4D-BA65-F907806CC407}|ConsoleConsumer\\ConsoleConsumer.csproj|C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\consoleconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3117C9A0-C48C-4F4D-BA65-F907806CC407}|ConsoleConsumer\\ConsoleConsumer.csproj|solutionrelative:consoleconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D9B072-AB30-4C0A-843C-909756B2F151}|Monitor\\Monitor.csproj|C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\monitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D9B072-AB30-4C0A-843C-909756B2F151}|Monitor\\Monitor.csproj|solutionrelative:monitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3425C25-059F-428F-814B-5ED79F584065}|DataModel\\DataModel.csproj|C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\datamodel\\processstatusevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3425C25-059F-428F-814B-5ED79F584065}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\processstatusevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3425C25-059F-428F-814B-5ED79F584065}|DataModel\\DataModel.csproj|C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\datamodel\\processstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3425C25-059F-428F-814B-5ED79F584065}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\processstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A80472-AF82-40F1-BC6A-9CF66DC287D7}|Comm\\Communicator.csproj|c:\\_facultate\\ps2\\simulator semafor\\simulator\\comm\\sender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A80472-AF82-40F1-BC6A-9CF66DC287D7}|Comm\\Communicator.csproj|solutionrelative:comm\\sender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3117C9A0-C48C-4F4D-BA65-F907806CC407}|ConsoleConsumer\\ConsoleConsumer.csproj|c:\\_facultate\\ps2\\simulator semafor\\simulator\\consoleconsumer\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D9B072-AB30-4C0A-843C-909756B2F151}|Monitor\\Monitor.csproj|c:\\_facultate\\ps2\\simulator semafor\\simulator\\monitor\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA84CB-1AEB-4DEE-AEE1-5EDAC0649F30}|Simulator\\Simulator.csproj|c:\\_facultate\\ps2\\simulator semafor\\simulator\\simulator\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3425C25-059F-428F-814B-5ED79F584065}|DataModel\\DataModel.csproj|c:\\_facultate\\ps2\\simulator semafor\\simulator\\datamodel\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebAPI",
+              "DocumentMoniker": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-30T19:39:38.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Monitor",
+              "DocumentMoniker": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Monitor\\Monitor.csproj",
+              "RelativeDocumentMoniker": "Monitor\\Monitor.csproj",
+              "ToolTip": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Monitor\\Monitor.csproj",
+              "RelativeToolTip": "Monitor\\Monitor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-30T19:39:11.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Communicator",
+              "DocumentMoniker": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Comm\\Communicator.csproj",
+              "RelativeDocumentMoniker": "Comm\\Communicator.csproj",
+              "ToolTip": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Comm\\Communicator.csproj",
+              "RelativeToolTip": "Comm\\Communicator.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-30T19:38:56.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsoleConsumer",
+              "DocumentMoniker": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\ConsoleConsumer\\ConsoleConsumer.csproj",
+              "RelativeDocumentMoniker": "ConsoleConsumer\\ConsoleConsumer.csproj",
+              "ToolTip": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\ConsoleConsumer\\ConsoleConsumer.csproj",
+              "RelativeToolTip": "ConsoleConsumer\\ConsoleConsumer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-30T19:38:45.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Semafor.xaml",
+              "DocumentMoniker": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Simulator\\Semafor.xaml",
+              "RelativeDocumentMoniker": "Simulator\\Semafor.xaml",
+              "ToolTip": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Simulator\\Semafor.xaml",
+              "RelativeToolTip": "Simulator\\Semafor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T08:22:18.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimulatorController.cs",
+              "DocumentMoniker": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\WebAPI\\Controllers\\SimulatorController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\SimulatorController.cs",
+              "ToolTip": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\WebAPI\\Controllers\\SimulatorController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\SimulatorController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:41:35.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SemaforViewModel.cs",
+              "DocumentMoniker": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Simulator\\SemaforViewModel.cs",
+              "RelativeDocumentMoniker": "Simulator\\SemaforViewModel.cs",
+              "ToolTip": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Simulator\\SemaforViewModel.cs",
+              "RelativeToolTip": "Simulator\\SemaforViewModel.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAA6wFYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:26:58.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Simulator",
+              "DocumentMoniker": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Simulator\\Simulator.csproj",
+              "RelativeDocumentMoniker": "Simulator\\Simulator.csproj",
+              "ToolTip": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Simulator\\Simulator.csproj",
+              "RelativeToolTip": "Simulator\\Simulator.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-30T19:39:21.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataModel",
+              "DocumentMoniker": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\DataModel\\DataModel.csproj",
+              "RelativeDocumentMoniker": "DataModel\\DataModel.csproj",
+              "ToolTip": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\DataModel\\DataModel.csproj",
+              "RelativeToolTip": "DataModel\\DataModel.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-30T19:39:32.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Semafor.xaml.cs",
+              "DocumentMoniker": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Simulator\\Semafor.xaml.cs",
+              "RelativeDocumentMoniker": "Simulator\\Semafor.xaml.cs",
+              "ToolTip": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Simulator\\Semafor.xaml.cs",
+              "RelativeToolTip": "Simulator\\Semafor.xaml.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAA+wA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:17:35.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HttpHelper.cs",
+              "DocumentMoniker": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Comm\\HttpHelper.cs",
+              "RelativeDocumentMoniker": "Comm\\HttpHelper.cs",
+              "ToolTip": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Comm\\HttpHelper.cs",
+              "RelativeToolTip": "Comm\\HttpHelper.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADgvxUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:25:46.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Monitor\\Program.cs",
+              "RelativeDocumentMoniker": "Monitor\\Program.cs",
+              "ToolTip": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Monitor\\Program.cs",
+              "RelativeToolTip": "Monitor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:37:44.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Receiver.cs",
+              "DocumentMoniker": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Comm\\Receiver.cs",
+              "RelativeDocumentMoniker": "Comm\\Receiver.cs",
+              "ToolTip": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Comm\\Receiver.cs",
+              "RelativeToolTip": "Comm\\Receiver.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADgvygAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:15:44.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\ConsoleConsumer\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleConsumer\\Program.cs",
+              "ToolTip": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\ConsoleConsumer\\Program.cs",
+              "RelativeToolTip": "ConsoleConsumer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:44:37.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Simulator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Simulator\\MainWindow.xaml",
+              "ToolTip": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Simulator\\MainWindow.xaml",
+              "RelativeToolTip": "Simulator\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T06:31:59.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Sender.cs",
+              "DocumentMoniker": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Comm\\Sender.cs",
+              "RelativeDocumentMoniker": "Comm\\Sender.cs",
+              "ToolTip": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\Comm\\Sender.cs",
+              "RelativeToolTip": "Comm\\Sender.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:15:43.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProcessStatusEvent.cs",
+              "DocumentMoniker": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\DataModel\\ProcessStatusEvent.cs",
+              "RelativeDocumentMoniker": "DataModel\\ProcessStatusEvent.cs",
+              "ToolTip": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\DataModel\\ProcessStatusEvent.cs",
+              "RelativeToolTip": "DataModel\\ProcessStatusEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:02:44.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProcessState.cs",
+              "DocumentMoniker": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\DataModel\\ProcessState.cs",
+              "RelativeDocumentMoniker": "DataModel\\ProcessState.cs",
+              "ToolTip": "C:\\_facultate\\PS2\\Simulator semafor\\Simulator\\DataModel\\ProcessState.cs",
+              "RelativeToolTip": "DataModel\\ProcessState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:13:24.299Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = Communicator
+build_property.ProjectDir = C:\_facultate\PS2\Simulator semafor\Simulator\Comm\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

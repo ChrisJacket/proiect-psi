@@ -1,0 +1,40 @@
+C:\_data\exemple facultate\Simulator\Simulator\Comm\bin\Debug\netstandard2.0\Comm.deps.json
+C:\_data\exemple facultate\Simulator\Simulator\Comm\bin\Debug\netstandard2.0\Comm.dll
+C:\_data\exemple facultate\Simulator\Simulator\Comm\bin\Debug\netstandard2.0\Comm.pdb
+C:\_data\exemple facultate\Simulator\Simulator\Comm\obj\Debug\netstandard2.0\Comm.csprojAssemblyReference.cache
+C:\_data\exemple facultate\Simulator\Simulator\Comm\obj\Debug\netstandard2.0\Comm.AssemblyInfoInputs.cache
+C:\_data\exemple facultate\Simulator\Simulator\Comm\obj\Debug\netstandard2.0\Comm.AssemblyInfo.cs
+C:\_data\exemple facultate\Simulator\Simulator\Comm\obj\Debug\netstandard2.0\Comm.dll
+C:\_data\exemple facultate\Simulator\Simulator\Comm\obj\Debug\netstandard2.0\Comm.pdb
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Comm\bin\Debug\netstandard2.0\Comm.deps.json
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Comm\bin\Debug\netstandard2.0\Comm.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Comm\bin\Debug\netstandard2.0\Comm.pdb
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Comm\obj\Debug\netstandard2.0\Comm.csproj.AssemblyReference.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Comm\obj\Debug\netstandard2.0\Comm.AssemblyInfoInputs.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Comm\obj\Debug\netstandard2.0\Comm.AssemblyInfo.cs
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Comm\obj\Debug\netstandard2.0\Comm.csproj.CoreCompileInputs.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Comm\obj\Debug\netstandard2.0\Comm.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Comm\obj\Debug\netstandard2.0\Comm.pdb
+C:\Facultate\PS2 - 2024\Simulator + monitorizare + indicatii\Simulator\Comm\bin\Debug\netstandard2.0\Comm.deps.json
+C:\Facultate\PS2 - 2024\Simulator + monitorizare + indicatii\Simulator\Comm\bin\Debug\netstandard2.0\Comm.dll
+C:\Facultate\PS2 - 2024\Simulator + monitorizare + indicatii\Simulator\Comm\bin\Debug\netstandard2.0\Comm.pdb
+C:\Facultate\PS2 - 2024\Simulator + monitorizare + indicatii\Simulator\Comm\obj\Debug\netstandard2.0\Comm.csproj.AssemblyReference.cache
+C:\Facultate\PS2 - 2024\Simulator + monitorizare + indicatii\Simulator\Comm\obj\Debug\netstandard2.0\Comm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\PS2 - 2024\Simulator + monitorizare + indicatii\Simulator\Comm\obj\Debug\netstandard2.0\Comm.AssemblyInfoInputs.cache
+C:\Facultate\PS2 - 2024\Simulator + monitorizare + indicatii\Simulator\Comm\obj\Debug\netstandard2.0\Comm.AssemblyInfo.cs
+C:\Facultate\PS2 - 2024\Simulator + monitorizare + indicatii\Simulator\Comm\obj\Debug\netstandard2.0\Comm.csproj.CoreCompileInputs.cache
+C:\Facultate\PS2 - 2024\Simulator + monitorizare + indicatii\Simulator\Comm\obj\Debug\netstandard2.0\Comm.dll
+C:\Facultate\PS2 - 2024\Simulator + monitorizare + indicatii\Simulator\Comm\obj\Debug\netstandard2.0\Comm.pdb
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\bin\Debug\netstandard2.0\Comm.deps.json
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\bin\Debug\netstandard2.0\Comm.dll
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\bin\Debug\netstandard2.0\Comm.pdb
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Comm.csproj.AssemblyReference.cache
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Comm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Comm.AssemblyInfoInputs.cache
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Comm.AssemblyInfo.cs
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Comm.csproj.CoreCompileInputs.cache
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Comm.dll
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Comm.pdb
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\bin\Debug\netstandard2.0\DataModel.dll
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\bin\Debug\netstandard2.0\DataModel.pdb
+C:\Facultate\PS2 - 2024\Simulator semafor\Simulator\Comm\obj\Debug\netstandard2.0\Comm.csproj.Up2Date
