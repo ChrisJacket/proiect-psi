@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Control Pompe M43 — Live Dashboard</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <div class="topbar">
+        <div class="brand">
+            <span class="brand-dot"></span>
+            <div>
+                <div class="brand-title">CONTROL POMPE M43</div>
+                <div class="brand-sub">Monitorizare live · WebAPI → WEB</div>
+            </div>
+        </div>
+        <div class="topbar-right">
+            <span id="conn" class="badge badge-warn">offline</span>
+            <span class="topbar-time" id="updatedAt">—</span>
+        </div>
+    </div>
+
+    <main class="container">
+        <section class="grid-main">
+            <article class="card card-pressure">
+                <header class="card-h">PRESIUNE LIVE</header>
+                <div class="pressure-value" id="pressure">—</div>
+                <div class="pressure-unit">bar</div>
+                <div class="pressure-meta">
+                    <span class="muted">setpoint:</span>
+                    <strong id="setpoint">—</strong>
+                </div>
+                <div class="pressure-bar">
+                    <div class="pressure-bar-fill" id="pressureBar" style="width:0%"></div>
+                </div>
+            </article>
+
+            <article class="card card-mode">
+                <header class="card-h">MOD SISTEM</header>
+                <div class="mode-value" id="mode">—</div>
+                <div class="muted small" id="modeHint">aşteptăm date</div>
+            </article>
+
+            <article class="card card-alarm">
+                <header class="card-h">ALARMĂ B1</header>
+                <div class="alarm-row">
+                    <span class="alarm-dot" id="alarmDot"></span>
+                    <span class="alarm-text" id="alarmText">Normal</span>
+                </div>
+                <div class="muted small">Redundanță senzor presiune</div>
+            </article>
+
+            <article class="card card-consumption">
+                <header class="card-h">CONSUM Y1</header>
+                <div class="consumption-value" id="consumption">—</div>
+                <div class="muted small">L/s — debit cerut</div>
+            </article>
+        </section>
+
+        <section class="card">
+            <header class="card-h">POMPE — M1 ÷ M4 / lămpi P1 ÷ P4</header>
+            <div class="pumps-grid" id="pumps">
+                <!-- pump cards injected by JS -->
+            </div>
+        </section>
+
+        <section class="card">
+            <header class="card-h">ISTORIC EVENIMENTE <span class="muted small" id="historyCount"></span></header>
+            <div class="table-wrap">
+                <table class="history">
+                    <thead>
+                        <tr>
+                            <th>Timp</th>
+                            <th>Presiune</th>
+                            <th>Setpoint</th>
+                            <th>Mod</th>
+                            <th>M1 M2 M3 M4</th>
+                            <th>P1 P2 P3 P4</th>
+                            <th>Alarmă</th>
+                        </tr>
+                    </thead>
+                    <tbody id="historyBody">
+                        <tr><td colspan="7" class="empty">— niciun eveniment încă —</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <footer class="footnote">
+            Lanț: Simulator (WPF) → TCP 3000 → Monitor → HTTP 5000 → WebAPI → această pagină
+        </footer>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
